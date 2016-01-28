@@ -1,4 +1,3 @@
-
 /**
  * Module dependencies.
  */
@@ -8,7 +7,7 @@ var index = require('./routes/index');
 var project = require('./routes/project');
 var http = require('http');
 var path = require('path');
-var handlebars = require('express3-handlebars')
+var handlebars = require('express-handlebars')
 
 var index = require('./routes/index');
 // Example route
